@@ -3,12 +3,12 @@
     {
       "id": "HC001003",
       "title": "Keracunan Pangananan Dari Pinggir Jalanan",
-      "date": "2019-11-25 00:00:00.000",
+      "date": "2020-11-25 00:00:00.000",
       "catatan": "Keracunan makanan dapat terjadi ketika mengonsumsi makanan atau minuman yang tercemar oleh kuman dari lingkungan sekitar. Entah itu bakteri, virus, ataupun parasit. Misalnya, dari air kotor yang dipakai untuk mencuci bahan makanan atau peralatan masak secara berulang. Apalagi, kuman penyebab keracunan makanan itu ukurannya sangat kecil dan tidak bisa dilihat dengan mata secara langsung. Jajanan pinggir jalan yang selama ini kamu anggap bersih pun bisa saja mengandung banyak kuman.",
       "namedoctor": "dr.Robertison Marteen",
       "hospital": "RS Mandaya Karawang",
       "klinik": "Klinik Umum",
-      "pemeriksaanselanjutnya": "25 Desember 2020",
+      "pemeriksaanselanjutnya": "2020-02-25 00:00:00.000",
       "lampiran1": "www.google.com",
       "lampiran2": "www.google.com",
       "medication": "www.google.com",
@@ -18,6 +18,66 @@
         },
         {
           "labelname": "RS Mandaya Karawang"
+        }
+      ]
+    },
+    {
+      "id": "HC001002",
+      "title": "Terpapar Corona",
+      "date": "2020-02-25 00:00:00.000",
+      "catatan": "Keracunan makanan dapat terjadi ketika mengonsumsi makanan atau minuman yang tercemar oleh kuman dari lingkungan sekitar. Entah itu bakteri, virus, ataupun parasit. Misalnya, dari air kotor yang dipakai untuk mencuci bahan makanan atau peralatan masak secara berulang. Apalagi, kuman penyebab keracunan makanan itu ukurannya sangat kecil dan tidak bisa dilihat dengan mata secara langsung. Jajanan pinggir jalan yang selama ini kamu anggap bersih pun bisa saja mengandung banyak kuman.",
+      "namedoctor": "dr.Robertison Marteen",
+      "hospital": "RS Pondok Indah",
+      "klinik": "Klinik Umum",
+      "pemeriksaanselanjutnya": "2020-03-25 00:00:00.000",
+      "lampiran1": "www.google.com",
+      "lampiran2": "www.google.com",
+      "medication": "www.google.com",
+      "labelfilter": [
+        {
+          "labelname": "RS Non Mandaya"
+        }
+      ]
+    },
+    {
+      "id": "HC001001",
+      "title": "Gejala Typus",
+      "date": "2020-05-25 00:00:00.000",
+      "catatan": "Keracunan makanan dapat terjadi ketika mengonsumsi makanan atau minuman yang tercemar oleh kuman dari lingkungan sekitar. Entah itu bakteri, virus, ataupun parasit. Misalnya, dari air kotor yang dipakai untuk mencuci bahan makanan atau peralatan masak secara berulang. Apalagi, kuman penyebab keracunan makanan itu ukurannya sangat kecil dan tidak bisa dilihat dengan mata secara langsung. Jajanan pinggir jalan yang selama ini kamu anggap bersih pun bisa saja mengandung banyak kuman.",
+      "namedoctor": "dr.Robertison Marteen",
+      "hospital": "RS Mandaya Karawang",
+      "klinik": "Klinik Umum",
+      "pemeriksaanselanjutnya": "2020-06-25 00:00:00.000",
+      "lampiran1": "www.google.com",
+      "lampiran2": "www.google.com",
+      "medication": "www.google.com",
+      "labelfilter": [
+        {
+          "labelname": "RS Mandaya"
+        },
+        {
+          "labelname": "RS Mandaya Karawang"
+        }
+      ]
+    },
+    {
+      "id": "HC001000",
+      "title": "Hipertensi Akut",
+      "date": "2020-07-25 00:00:00.000",
+      "catatan": "Keracunan makanan dapat terjadi ketika mengonsumsi makanan atau minuman yang tercemar oleh kuman dari lingkungan sekitar. Entah itu bakteri, virus, ataupun parasit. Misalnya, dari air kotor yang dipakai untuk mencuci bahan makanan atau peralatan masak secara berulang. Apalagi, kuman penyebab keracunan makanan itu ukurannya sangat kecil dan tidak bisa dilihat dengan mata secara langsung. Jajanan pinggir jalan yang selama ini kamu anggap bersih pun bisa saja mengandung banyak kuman.",
+      "namedoctor": "dr.Robertison Marteen",
+      "hospital": "RS Mandaya Royal Puri",
+      "klinik": "Klinik Umum",
+      "pemeriksaanselanjutnya": "2020-08-25 00:00:00.000",
+      "lampiran1": "www.google.com",
+      "lampiran2": "www.google.com",
+      "medication": "www.google.com",
+      "labelfilter": [
+        {
+          "labelname": "RS Mandaya"
+        },
+        {
+          "labelname": "RS Mandaya Royal Puri"
         }
       ]
     }
