@@ -11,7 +11,15 @@
       "pemeriksaanselanjutnya": "25 Desember 2020",
       "lampiran1": "www.google.com",
       "lampiran2": "www.google.com",
-      "medication": "www.google.com"
+      "medication": "www.google.com",
+      "labelfilter": [
+        {
+          "labelname": "RS Mandaya"
+        },
+        {
+          "labelname": "RS Mandaya Karawang"
+        }
+      ]
     }
   ]
 }
