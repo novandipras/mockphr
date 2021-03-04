@@ -89,22 +89,5 @@
       ]
     }
   ],
-  "filterlabelhealthconditionmockup": [
-    {
-      "labelid": "LBL01",
-      "labelname": "RS Mandaya"
-    },
-    {
-      "labelid": "LBL02",
-      "labelname": "RS Non Mandaya"
-    },
-    {
-      "labelid": "LBL03",
-      "labelname": "RS Mandaya Karawang"
-    },
-    {
-      "labelid": "LBL04",
-      "labelname": "RS Mandaya Royal Puri"
-    }
-  ]
+  
 }
