@@ -14,9 +14,11 @@
       "medication": "www.google.com",
       "labelfilter": [
         {
+          "labelid": "LBL01",
           "labelname": "RS Mandaya"
         },
         {
+          "labelid": "LBL03",
           "labelname": "RS Mandaya Karawang"
         }
       ]
@@ -35,6 +37,7 @@
       "medication": "www.google.com",
       "labelfilter": [
         {
+          "labelid": "LBL02",
           "labelname": "RS Non Mandaya"
         }
       ]
@@ -53,9 +56,11 @@
       "medication": "www.google.com",
       "labelfilter": [
         {
+          "labelid": "LBL01",
           "labelname": "RS Mandaya"
         },
         {
+          "labelid": "LBL03",
           "labelname": "RS Mandaya Karawang"
         }
       ]
@@ -74,30 +79,32 @@
       "medication": "www.google.com",
       "labelfilter": [
         {
+          "labelid": "LBL01",
           "labelname": "RS Mandaya"
         },
         {
+          "labelid": "LBL04",
           "labelname": "RS Mandaya Royal Puri"
         }
       ]
     }
   ],
-  "filterlabelhealthconditionmockup" : [
+  "filterlabelhealthconditionmockup": [
     {
-      "labelid" : "LBL01",
+      "labelid": "LBL01",
       "labelname": "RS Mandaya"
     },
     {
-      "labelid" : "LBL02",
+      "labelid": "LBL02",
       "labelname": "RS Non Mandaya"
     },
     {
-      "labelid" : "LBL03",
+      "labelid": "LBL03",
       "labelname": "RS Mandaya Karawang"
     },
     {
-      "labelid" : "LBL04",
+      "labelid": "LBL04",
       "labelname": "RS Mandaya Royal Puri"
-    },
+    }
   ]
 }
