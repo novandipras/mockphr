@@ -1,0 +1,43 @@
+{
+  "healthconditionMockup": [
+    {
+      "id": "HC001003",
+      "title": "Keracunan Pangananan Dari Pinggir Jalanan",
+      "date": "2020-11-25 00:00:00.000",
+      "catatan": "Keracunan makanan dapat terjadi ketika mengonsumsi makanan atau minuman yang tercemar oleh kuman dari lingkungan sekitar. Entah itu bakteri, virus, ataupun parasit. Misalnya, dari air kotor yang dipakai untuk mencuci bahan makanan atau peralatan masak secara berulang. Apalagi, kuman penyebab keracunan makanan itu ukurannya sangat kecil dan tidak bisa dilihat dengan mata secara langsung. Jajanan pinggir jalan yang selama ini kamu anggap bersih pun bisa saja mengandung banyak kuman.",
+      "namedoctor": "dr.Robertison Marteen",
+      "hospital": "RS Mandaya Karawang",
+      "klinik": "Klinik Umum",
+      "pemeriksaanselanjutnya": "2020-11-25 00:00:00.000",
+      "lampiran1": "www.google.com",
+      "lampiran2": "www.google.com",
+      "medication": "www.google.com",
+      "labelfilter": [
+        {
+          "labelname": "RS Mandaya"
+        },
+        {
+          "labelname": "RS Mandaya Karawang"
+        }
+      ]
+    },
+    {
+      "id": "HC001002",
+      "title": "Positif Terjangkit Corona Virus",
+      "date": "2020-10-05 00:00:00.000",
+      "catatan": "Khusus untuk COVID-19, masa inkubasi belum diketahui secara pasti. Namun, rata-rata gejala yang timbul setelah 2-14 hari setelah virus pertama masuk ke dalam tubuh. Di samping itu, metode transmisi COVID-19 juga belum diketahui dengan pasti. Awalnya, virus corona jenis COVID-19 diduga bersumber dari hewan. Virus corona COVID-19 merupakan virus yang beredar pada beberapa hewan, termasuk unta, kucing, dan kelelawar. ",
+      "namedoctor": "dr.Robertison Marteen",
+      "hospital": "RS Pondok Indah Bintaro",
+      "klinik": "Klinik Umum",
+      "pemeriksaanselanjutnya": "2020-10-05 00:00:00.000",
+      "lampiran1": "www.google.com",
+      "lampiran2": "www.google.com",
+      "medication": "www.google.com",
+      "labelfilter": [
+        {
+          "labelname": "RS Non Mandaya"
+        },
+      ]
+    }
+  ]
+}
