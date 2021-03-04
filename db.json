@@ -1,28 +1,17 @@
 {
-  "data": [{
-    "type": "articles",
-    "id": "1",
-    "attributes": {
-      "title": "JSON:API paints my bikeshed!",
-      "body": "The shortest article. Ever.",
-      "created": "2015-05-22T14:56:29.000Z",
-      "updated": "2015-05-22T14:56:28.000Z"
-    },
-    "relationships": {
-      "author": {
-        "data": {"id": "42", "type": "people"}
-      }
-    }
-  }],
-  "included": [
+  "healthconditionmockup": [
     {
-      "type": "people",
-      "id": "42",
-      "attributes": {
-        "name": "John",
-        "age": 80,
-        "gender": "male"
-      }
+      "id": "HC001003",
+      "title": "Keracunan Pangananan Dari Pinggir Jalanan",
+      "date": "2019-11-25 00:00:00.000",
+      "catatan": "Keracunan makanan dapat terjadi ketika mengonsumsi makanan atau minuman yang tercemar oleh kuman dari lingkungan sekitar. Entah itu bakteri, virus, ataupun parasit. Misalnya, dari air kotor yang dipakai untuk mencuci bahan makanan atau peralatan masak secara berulang. Apalagi, kuman penyebab keracunan makanan itu ukurannya sangat kecil dan tidak bisa dilihat dengan mata secara langsung. Jajanan pinggir jalan yang selama ini kamu anggap bersih pun bisa saja mengandung banyak kuman.",
+      "namedoctor": "dr.Robertison Marteen",
+      "hospital": "RS Mandaya Karawang",
+      "klinik": "Klinik Umum",
+      "pemeriksaanselanjutnya": "25 Desember 2020",
+      "lampiran1": "www.google.com",
+      "lampiran2": "www.google.com",
+      "medication": "www.google.com"
     }
   ]
 }
