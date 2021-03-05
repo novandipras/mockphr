@@ -12,16 +12,7 @@
       "lampiran1": "www.google.com",
       "lampiran2": "www.google.com",
       "medication": "www.google.com",
-      "labelfilter": [
-        {
-          "labelid": "LBL01",
-          "labelname": "RS Mandaya"
-        },
-        {
-          "labelid": "LBL03",
-          "labelname": "RS Mandaya Karawang"
-        }
-      ]
+      "labelfilter": ["RS Mandaya", "RS Mandaya Karawang"]
     },
     {
       "id": "HC001002",
@@ -35,12 +26,7 @@
       "lampiran1": "www.google.com",
       "lampiran2": "www.google.com",
       "medication": "www.google.com",
-      "labelfilter": [
-        {
-          "labelid": "LBL02",
-          "labelname": "RS Non Mandaya"
-        }
-      ]
+      "labelfilter":  ["RS Non Mandaya"]
     },
     {
       "id": "HC001001",
@@ -54,16 +40,7 @@
       "lampiran1": "www.google.com",
       "lampiran2": "www.google.com",
       "medication": "www.google.com",
-      "labelfilter": [
-        {
-          "labelid": "LBL01",
-          "labelname": "RS Mandaya"
-        },
-        {
-          "labelid": "LBL03",
-          "labelname": "RS Mandaya Karawang"
-        }
-      ]
+      "labelfilter": ["RS Mandaya", "RS Mandaya Karawang"]
     },
     {
       "id": "HC001000",
@@ -77,16 +54,21 @@
       "lampiran1": "www.google.com",
       "lampiran2": "www.google.com",
       "medication": "www.google.com",
-      "labelfilter": [
-        {
-          "labelid": "LBL01",
-          "labelname": "RS Mandaya"
-        },
-        {
-          "labelid": "LBL04",
-          "labelname": "RS Mandaya Royal Puri"
-        }
-      ]
+      "labelfilter":  ["RS Mandaya", "RS Mandaya Royal Puri"]
+    },
+    {
+      "id": "HC00999",
+      "title": "Operasi Amandel",
+      "date": "2020-01-25 00:00:00.000",
+      "catatan": "Keracunan makanan dapat terjadi ketika mengonsumsi makanan atau minuman yang tercemar oleh kuman dari lingkungan sekitar. Entah itu bakteri, virus, ataupun parasit. Misalnya, dari air kotor yang dipakai untuk mencuci bahan makanan atau peralatan masak secara berulang. Apalagi, kuman penyebab keracunan makanan itu ukurannya sangat kecil dan tidak bisa dilihat dengan mata secara langsung. Jajanan pinggir jalan yang selama ini kamu anggap bersih pun bisa saja mengandung banyak kuman.",
+      "namedoctor": "dr.Robertison Marteen",
+      "hospital": "RS Mandaya Royal Puri",
+      "klinik": "Klinik Umum",
+      "pemeriksaanselanjutnya": "2020-02-25 00:00:00.000",
+      "lampiran1": "www.google.com",
+      "lampiran2": "www.google.com",
+      "medication": "www.google.com",
+      "labelfilter":  ["RS Mandaya", "RS Mandaya Royal Puri"]
     }
   ],
   "filterlabelhealthconditionmockup": [
